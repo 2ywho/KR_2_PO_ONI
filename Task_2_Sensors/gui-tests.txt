@@ -1,0 +1,15 @@
+Selected: "GPS" accuracy (m): 1.5
+"GPS" satellites: 10
+Selected: "GLONASS" accuracy (m): 2
+"GLONASS" satellites: 8
+Selected: "Visual Odometry" accuracy (m): 3.2
+"Visual Odometry" tracked visual features: 124
+ERROR: no available sensor with valid accuracy
+Selected: "GPS" accuracy (m): 1.5
+"GPS" satellites: 10
+Selected: "Visual Odometry" accuracy (m): 0.2
+"Visual Odometry" tracked visual features: 124
+Selected: "Visual Odometry" accuracy (m): 0.2
+"Visual Odometry" tracked visual features: 60
+"Visual Odometry" tracked visual features: 60
+GUI scenarios failures: 0

@@ -1,0 +1,9 @@
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/Control_Work_02_Polymorphism.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/model_tests.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/test.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/edit_cache.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/rebuild_cache.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/Control_Work_02_Polymorphism_autogen_timestamp_deps.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/Control_Work_02_Polymorphism_autogen.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/model_tests_autogen_timestamp_deps.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/CMakeFiles/model_tests_autogen.dir

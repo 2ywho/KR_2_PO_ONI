@@ -1,0 +1,23 @@
+# ninja log v6
+87	817	8160941955129214	Control_Work_02_Polymorphism_autogen/timestamp	6ca26b0699243d7b
+87	817	8160941955129214	Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	6ca26b0699243d7b
+87	817	8160941955129214	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/Control_Work_02_Polymorphism_autogen/timestamp	6ca26b0699243d7b
+87	817	8160941955129214	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	6ca26b0699243d7b
+826	1038	8160941957076830	CMakeFiles/Control_Work_02_Polymorphism.dir/Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp.obj	64340484295e0fcf
+860	3141	8160941957418575	CMakeFiles/Control_Work_02_Polymorphism.dir/src/uav.cpp.obj	8a615f64129becf3
+118	3559	8160941981316086	model_tests_autogen/timestamp	6e4e9d8d689e148d
+118	3559	8160941981316086	model_tests_autogen/mocs_compilation.cpp	6e4e9d8d689e148d
+118	3559	8160941981316086	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/model_tests_autogen/timestamp	6e4e9d8d689e148d
+118	3559	8160941981316086	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/model_tests_autogen/mocs_compilation.cpp	6e4e9d8d689e148d
+3585	3807	8160941984681802	CMakeFiles/model_tests.dir/model_tests_autogen/mocs_compilation.cpp.obj	7d63523bb7a715a3
+3649	5834	8160941985289892	CMakeFiles/model_tests.dir/src/uav.cpp.obj	b0d1156b1a27aa45
+3621	15276	8160941985038334	CMakeFiles/model_tests.dir/tests/model_tests.cpp.obj	30d9b4392d7e4563
+15277	15863	8160942101582520	model_tests.exe	1d19feb7bfb878ff
+842	24403	8160941957234997	CMakeFiles/Control_Work_02_Polymorphism.dir/src/main.cpp.obj	f2590fb0aa799676
+24405	24850	8160942192858288	Control_Work_02_Polymorphism.exe	2cd5aac9b4ed5802
+107	507	8160942853945094	Control_Work_02_Polymorphism_autogen/timestamp	6ca26b0699243d7b
+107	507	8160942853945094	Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	6ca26b0699243d7b
+107	507	8160942853945094	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/Control_Work_02_Polymorphism_autogen/timestamp	6ca26b0699243d7b
+107	507	8160942853945094	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	6ca26b0699243d7b
+510	10992	8160942857964544	CMakeFiles/Control_Work_02_Polymorphism.dir/src/main.cpp.obj	f2590fb0aa799676
+10992	11480	8160942962765051	Control_Work_02_Polymorphism.exe	2cd5aac9b4ed5802

@@ -1,0 +1,26 @@
+Selected: "GPS" accuracy (m): 1.5
+PASS default GPS
+"GPS" satellites: 10
+"GLONASS" satellites: 8
+"Visual Odometry" tracked visual features: 124
+PASS read semantics
+Selected: "GLONASS" accuracy (m): 2
+PASS GPS unavailable
+Selected: "Visual Odometry" accuracy (m): 3.2
+PASS visual fallback
+ERROR: no available sensor with valid accuracy
+PASS all unavailable
+ERROR: no available sensor with valid accuracy
+PASS null safe
+ERROR: no available sensor with valid accuracy
+PASS NaN rejected
+ERROR: no available sensor with valid accuracy
+PASS negative rejected
+ERROR: no available sensor with valid accuracy
+PASS infinity rejected
+Selected: "GPS" accuracy (m): 0
+PASS zero accepted
+Selected: "GPS" accuracy (m): 0
+PASS stable tie
+ERROR: no available sensor with valid accuracy
+PASS empty list

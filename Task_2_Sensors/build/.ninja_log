@@ -1,0 +1,9 @@
+# ninja log v6
+81	794	8160941890348854	Control_Work_02_Polymorphism_autogen/timestamp	ceef9173608768cb
+81	794	8160941890348854	Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	ceef9173608768cb
+81	794	8160941890348854	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/Control_Work_02_Polymorphism_autogen/timestamp	ceef9173608768cb
+81	794	8160941890348854	C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp	ceef9173608768cb
+803	1014	8160941892258336	CMakeFiles/Control_Work_02_Polymorphism.dir/Control_Work_02_Polymorphism_autogen/mocs_compilation.cpp.obj	cbf34c742f78ce6
+836	3994	8160941892564370	CMakeFiles/Control_Work_02_Polymorphism.dir/sensors.cpp.obj	c646b11bf1d426c
+819	30665	8160941892414486	CMakeFiles/Control_Work_02_Polymorphism.dir/main.cpp.obj	f015555d5841404e
+30671	31139	8160942190937817	Control_Work_02_Polymorphism.exe	e8f2ddf46440152d

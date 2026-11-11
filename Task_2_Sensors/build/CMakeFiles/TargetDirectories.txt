@@ -1,0 +1,5 @@
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/CMakeFiles/Control_Work_02_Polymorphism.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/CMakeFiles/edit_cache.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/CMakeFiles/rebuild_cache.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/CMakeFiles/Control_Work_02_Polymorphism_autogen_timestamp_deps.dir
+C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_2_Sensors/build/CMakeFiles/Control_Work_02_Polymorphism_autogen.dir

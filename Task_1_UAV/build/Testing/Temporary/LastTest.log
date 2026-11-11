@@ -1,0 +1,18 @@
+Start testing: Nov 11 12:57 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: model_tests
+1/1 Test: model_tests
+Command: "C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build/model_tests.exe"
+Directory: C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build
+"model_tests" start time: Nov 11 12:57 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"model_tests" end time: Nov 11 12:57 RTZ 2 (çèìà)
+"model_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 11 12:57 RTZ 2 (çèìà)

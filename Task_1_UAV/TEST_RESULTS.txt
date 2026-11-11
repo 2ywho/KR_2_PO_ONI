@@ -1,0 +1,12 @@
+Internal ctest changing into directory: C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build
+Test project C:/Mushrooms/Code projects/Chto_umeesh/deliverables/Control_Work_02_Variant_2/Task_1_UAV/build
+    Start 1: model_tests
+1/1 Test #1: model_tests ......................   Passed    0.13 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.16 sec
+GUI smoke exit: 0
+Screenshot exit: 0
+Portable smoke with system-only PATH exit: 0
+Final portable smoke exit: 0

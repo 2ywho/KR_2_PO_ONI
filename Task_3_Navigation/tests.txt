@@ -1,0 +1,8 @@
+Internal ctest changing into directory: C:/Mushrooms/Code projects/Chto_umeesh/tmp/cw2-nav-build
+Test project C:/Mushrooms/Code projects/Chto_umeesh/tmp/cw2-nav-build
+    Start 1: model_tests
+1/1 Test #1: model_tests ......................   Passed    0.21 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.22 sec
